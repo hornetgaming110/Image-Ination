@@ -1,5 +1,7 @@
 # Image-Ination
-A free, lightweight photo editor with lots of features!
+A free, lightweight photo editor with lots of features! 
+
+Download from the Releases page! https://github.com/hornetgaming110/Image-Ination/releases/tag/v4.9
 
 # FEATURES
 50+ tools and brushes, Filter effects, Color adjustments, Real life painting tools, multi-tab editing, PSD/XCF file support, and More!
