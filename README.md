@@ -10,5 +10,6 @@ A free, lightweight photo editor with lots of features!
 
 <img width="392" height="860" alt="image" src="https://github.com/user-attachments/assets/e44af01b-5fe6-421c-981e-708febed1315" />
 
-<img width="1920" height="1019" alt="image" src="https://github.com/user-attachments/assets/9e9eea8a-5c4a-4750-aac8-17e8e2a9d1ac" />
+<img width="1920" height="997" alt="image" src="https://github.com/user-attachments/assets/401d85f4-9000-48e6-a4c1-bba70deeb016" />
+
 
