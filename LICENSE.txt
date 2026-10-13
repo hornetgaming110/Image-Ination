@@ -1,0 +1,37 @@
+IMAGE-INATION - END-USER LICENSE
+
+Copyright (c) 2026 hornetgaming110. All rights reserved.
+
+Image-Ination ("the Software") is free to use. By installing or using it, you agree to these terms.
+
+1. Use. You may install and use the Software, free of charge, on any number of computers you own or
+   control, for personal or commercial work. Images and other files you create with the Software belong
+   to you.
+
+2. Sharing. You may give other people copies of the official, unmodified installer, free of charge.
+   You may not sell the Software, charge for it, bundle it with other software for sale, or offer it
+   from a site that charges for downloads.
+
+3. Restrictions. Except as allowed by law or by a license listed in point 4, you may not modify,
+   decompile, disassemble or reverse engineer the Software, or remove or change its copyright notices
+   or this license.
+
+4. Third-party components. The Software includes open-source components, such as Qt for Python, Qt,
+   Python, NumPy, Pillow and psd-tools, which are licensed under their own terms. These are listed,
+   with their licenses, in THIRD-PARTY-NOTICES.txt. Nothing in this license limits your rights under
+   those licenses. For example, the LGPL lets you replace the Qt libraries included with the Software
+   with your own versions.
+
+5. Updates. The Software can check for and install updates. You can turn automatic checks off in
+   Edit > Preferences. Updates are covered by this license unless they come with a different one.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+   Keep backups of important work.
+
+7. Limitation of liability. TO THE EXTENT ALLOWED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, INCLUDING LOSS OF DATA OR WORK, ARISING FROM THE USE OF OR INABILITY TO
+   USE THE SOFTWARE.
+
+8. Ending. This license ends automatically if you break its terms. When it ends, you must delete your
+   copies of the Software.
